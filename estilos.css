@@ -1,3 +1,18 @@
-.body{
-background-color: #0F3D2E;
+body{
+background-color: #750b0b;
+}
+
+.contenido{
+    border: solid;
+    height: 1000px;
+}
+
+.contenido div{
+    border:solid white;
+    height: 200px;
+    
+}
+
+.container{
+    border: none;
 }
