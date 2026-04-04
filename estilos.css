@@ -1,14 +1,15 @@
-@font-face{
-    font-family: 'Bebas Neue';
-    src: url('fonts/BebasNeue-Regular.eot?#iefix') format('embedded-opentype'),
-    url('fonts/BebasNeue-Regular.woff') format('woff'),
-    url('fonts/BebasNeue-Regular.ttf') format('truetype'),
-    url('fonts/BebasNeue-Regular.svg#BebasNeue-Regular') format('svg');
-    src: url('fonts/BebasNeue-Regular.eot');
+@font-face {
+    font-family: 'bebas neue';
+    src: url('../FADPBOOTSTRAP/fonts/BebasNeue-Regular.eot');
+    src: url('../FADPBOOTSTRAP/fonts/BebasNeue-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../FADPBOOTSTRAP/fonts/BebasNeue-Regular.eotBebasNeue-Regular.woff') format('woff'),
+        url('../FADPBOOTSTRAP/fonts/BebasNeue-Regular.eotBebasNeue-Regular.ttf') format('truetype'),
+        url('../FADPBOOTSTRAP/fonts/BebasNeue-Regular.eotBebasNeue-Regular.svg#BebasNeue-Regular') format('svg');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
 }
+
 
 
 body{
@@ -37,7 +38,7 @@ background-color: #750b0b;
     font-size: 80px;  
 }
 
-.quienes{
+.quienessomos{
     font-size: 50px;
-    font-family: bebas neue;
+    font-family:bebas neue;
 }
