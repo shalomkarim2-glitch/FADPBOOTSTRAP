@@ -9,13 +9,17 @@ background-color: #750b0b;
 
 .contenido div{
     border:solid white;
-    height: 200px;
-    
+    height: 500px;
+}
+
+.mislider{
+    border:solid white;
+    height:200px;
+
 }
 
 .navbar-brand{
 
     color: rgb(240, 255, 255);
-    
 
 }
