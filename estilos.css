@@ -1,7 +1,13 @@
-.bebas-neue-regular {
-  font-family: "BebasNeue", sans-serif;
-  font-weight: 400;
-  font-style: normal;
+@font-face{
+    font-family: 'Bebas Neue';
+    src: url('fonts/BebasNeue-Regular.eot?#iefix') format('embedded-opentype'),
+    url('fonts/BebasNeue-Regular.woff') format('woff'),
+    url('fonts/BebasNeue-Regular.ttf') format('truetype'),
+    url('fonts/BebasNeue-Regular.svg#BebasNeue-Regular') format('svg');
+    src: url('fonts/BebasNeue-Regular.eot');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
 }
 
 
@@ -30,6 +36,6 @@ background-color: #750b0b;
     color: rgb(240, 255, 255);
 }
 
-.h1{
+#PELUDITOS{
     font-family:
 }
