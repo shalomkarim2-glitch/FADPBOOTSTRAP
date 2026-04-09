@@ -10,10 +10,8 @@
     font-display: swap;
 }
 
-
-
 body{
-background-color: #750b0b;
+background-color: #2e8cff;
 }
 
 .contenido{
@@ -25,6 +23,11 @@ background-color: #750b0b;
     border:solid white;
     height: 500px;
 }
+
+.foto img {
+    width: 700px;
+}
+
 
 .mislider{
     border:solid white;
@@ -41,4 +44,12 @@ background-color: #750b0b;
 .quienes{
     font-size: 50px;
     font-family:bebas neue;
+}
+
+#textounico{
+
+    background: rgba(255, 255, 225, 0.3);
+    text-align: justify;
+    width: 50%;
+
 }
