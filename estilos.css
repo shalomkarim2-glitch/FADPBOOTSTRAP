@@ -25,9 +25,15 @@ background-color: #2e8cff;
 }
 
 .foto img {
+
     width: 700px;
 }
 
+#foto img{
+
+    width: 700px;
+
+}
 
 .mislider{
     border:solid white;
